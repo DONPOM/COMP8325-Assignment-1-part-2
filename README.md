@@ -18,3 +18,6 @@ Root Folder
  # Swapping out data sources
   - you can replace or add to the files in the existing directories to easily change data sources
   - can modify the data paths at the top of each task file to manually set different paths.
+
+# Known Errors
+If there is an error for unsupported files typs on task 2, ensure there are no DS store files in the js folders (MacOS generates these as hidden folders)
