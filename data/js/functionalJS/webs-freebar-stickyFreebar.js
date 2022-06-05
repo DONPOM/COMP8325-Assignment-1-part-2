@@ -1,0 +1,1 @@
+define({"webs.freebar.stickyFreebar.linkTitle":"Create your own free website today","webs.freebar.stickyFreebar.remove":"Customize footer","webs.freebar.stickyFreebar.tagline":"Better Websites Made Simple"});

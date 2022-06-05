@@ -1,0 +1,1 @@
+document.write('\x3cscript language\x3d\x22JavaScript\x22\x3e\n\x3c!--\nvar bbccom_advert_display_728x90\x3d0;\nBBC.adverts.close(\x27leaderboard\x27);\n//--\x3e\n\x3c/script\x3e');document.write('');

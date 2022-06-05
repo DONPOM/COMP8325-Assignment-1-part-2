@@ -1,0 +1,1 @@
+window.twttr=window.twttr||{};var i18n = {};window._=function(s,reps){s=twttr.lang&&i18n[twttr.lang]&&i18n[twttr.lang][s]||s;if(!reps)return s;return s.replace(/\%\{([a-z0-9_]+)\}/gi,function(m,k){return reps[k]||m})};

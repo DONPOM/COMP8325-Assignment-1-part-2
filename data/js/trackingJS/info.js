@@ -1,0 +1,1 @@
+/**/twttr.setFollowersCountAndFollowing([{"following":false,"id":"1228325660","screen_name":"Patreon","name":"Patreon","protected":false,"followers_count":24881,"formatted_followers_count":"24.9K followers","age_gated":false}]);

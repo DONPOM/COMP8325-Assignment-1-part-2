@@ -1,0 +1,1 @@
+moatOcrSample({'campaignId':'AOL20','placementId':'a-93314234','sampleRate':378,'adLookup':'AOL2|93314234','pixelFire':'http://secure-us.imrworldwide.com/cgi-bin/m?ci=nlsnapi29032&am=4&ep=1&at=view&rt=banner&st=image&ca=AOL20&cr=crv389345&pc=PLACEMENT&r=TIMESTAMP'});

@@ -1,0 +1,1 @@
+jQuery("form[name\x3dsearchForm]").submit(function(b){b.preventDefault();var c=jQuery("#criteria").val(),a=jQuery("#zipcode").val();c&&a&&(_setCustomVar(1,"Zip Code",a,"session"),_trackEvent("UserAction","SetZipCode",a));setTimeout(function(){b.target.submit()},200)});

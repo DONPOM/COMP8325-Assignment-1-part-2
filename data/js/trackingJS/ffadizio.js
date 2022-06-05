@@ -1,0 +1,1 @@
+(function(c){var b,a;b=document.getElementsByTagName("body");if(0==b.length)return!1;b=b[0];a=document.createElement("img");a.src=c;a.width=1;a.height=1;"undefined"!==typeof a.style&&(a.style.display="none");b.appendChild(a)})("http://x.skimresources.com/?provider=adizio");

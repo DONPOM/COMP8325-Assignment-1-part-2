@@ -1,0 +1,2 @@
+
+(function() {var proto = document.location.protocol; var server="http://tap2-cdn.rubiconproject.com"; if (proto == "https:") server="https://tap-secure.rubiconproject.com"; document.write('<IFRAME SRC="'+server+'/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=7554/12135&geo=as&co=au" FRAMEBORDER="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="NO" WIDTH="0" HEIGHT="0" style="height: 0px; width: 0px"></IFRAME>'); })();

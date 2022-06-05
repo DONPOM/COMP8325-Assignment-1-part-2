@@ -1,0 +1,1 @@
+var pltNewTabURLs = ["http:\/\/vindicogroup.tumblr.com","http:\/\/vindicogroup.tumblr.com\/careers"];(function(){jQuery(function(e){return e("body").on("click","a",function(t){var n;n=e(this);if(e.inArray(n.attr("href"),pltNewTabURLs)>-1)return n.attr("target","_blank")})})}).call(this);

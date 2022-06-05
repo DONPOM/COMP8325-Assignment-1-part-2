@@ -1,0 +1,1 @@
+define({"webs.builder.cobrand.webs.firstTimeVideo.url":"http://player.vimeo.com/video/78197538?badge=0&byline=0&title=0&portrait=0","webs.builder.cobrand.webs.welcome.heading":"Welcome to SiteBuilder!"});

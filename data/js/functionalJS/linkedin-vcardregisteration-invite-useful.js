@@ -1,0 +1,1 @@
+LI.i18n.register('InviteDialog-default-title','Connect');LI.i18n.register('search-consumer-vcard-connect-success','Invitation sent to <a href=\"__profileURL__\">__fullName__<\/a>.');LI.Controls.addControl('control-http-12209-exec-5633735-90','SignalInviteDialog',{});

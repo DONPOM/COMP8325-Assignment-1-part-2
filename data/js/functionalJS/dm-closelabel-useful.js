@@ -1,0 +1,1 @@
+DM_ENV._add("DM_Utils", {"DM_CloseLabel":"close","DM_NoLabel":"No","DM_YesLabel":"Yes","DM_Closex28Label":"Skip Ad","DM_PaidLabel":"paid"});

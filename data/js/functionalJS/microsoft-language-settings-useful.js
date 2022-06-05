@@ -1,0 +1,1 @@
+/*<![CDATA[*/typeof $!="undefined"&&typeof $.bi!="undefined"&&($.bi.baseData({lang:"en"}),$.bi.baseData({loc:"au"}),$.bi.baseData({route:"CMSPROD"}),$.bi.baseData({ctrl:"VNext"}),$.bi.baseData({sitever:"1.0.0.0"}),$.bi.baseData({env:"prod"}),$.bi.ignoreTextClass("bi-hidetext"),$.bi.init(window.BiMapping))/*]]>*/

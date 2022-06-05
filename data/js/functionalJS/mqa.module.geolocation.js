@@ -1,0 +1,1 @@
+(function(){var B,C={code:2,message:"geolocation unsupported"},A={stub:true,getCurrentPosition:function(E,D){D(C)},watchPosition:function(E,D){D(C)},clearWatch:function(){}};B=A;if(navigator&&navigator.geolocation){B=navigator.geolocation}MQA.Geolocation=B;MQA.Loader._moduleLoaded("geolocation")})();

@@ -1,0 +1,1 @@
+define({"webs.creativecommons.attribution.message":"Some photos on this website are available under a <br/><a target=\"_blank\" href=\"http://creativecommons.org/licenses/by/2.0/\">Creative Commons Attribution license<\/a>.","webs.creativecommons.attribution.photosby":"Photos by:"});

@@ -1,0 +1,1 @@
+GwInstrumentation.preload("http://g-ecx.images-amazon.com/images/G/01/gno/sprites/global-sprite-32-v4._V319941157_.png");

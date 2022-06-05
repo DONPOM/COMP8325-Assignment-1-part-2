@@ -1,0 +1,1 @@
+window._sharedData = {"static_root":"\/\/d36xtkk24g8jdx.cloudfront.net\/bluebar\/be7c37a","platform":{"is_touch":false,"app_platform":"web"},"hostname":"instagram.com","entry_data":{},"country_code":"AU","config":{"viewer":null,"csrf_token":"176a31f4d42a6c6eaa053813ff2f9ef9"}};

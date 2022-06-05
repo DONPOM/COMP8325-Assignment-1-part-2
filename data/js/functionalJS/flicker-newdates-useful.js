@@ -1,0 +1,1 @@
+var page_timing = {}; page_timing.modules = {}; page_timing.page_start = new Date().getTime();

@@ -1,0 +1,1 @@
+function callbackProxy(adContents) { window.parent.googletag.impl.pubads.setAdContentsBySlotForAsync(adContents, ["/119654936/Leaderboard_0"]);}

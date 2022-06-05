@@ -1,0 +1,1 @@
+LI.RUM=LI.RUM||{};LI.RUM.streamMetrics={timeToNavInteractive:Date.now&&Date.now()||new Date().getTime(),timeToAboveFold:null,timeToPageInteractive:null};

@@ -1,0 +1,1 @@
+(function() { var url = '//pixel.redditmedia.com/pixel/of_destiny.png?v=YatXMipHtz%2BnmhYhgUSO0u9QEw7Cu0J65ulePNYA1xjvG052lFoV0rYptfrqFrSC5Bm9hpuE1LM%3D'; var cachebuster = Math.round(Math.random() * 2147483647); var cachebusted_url = url + "&r=" + cachebuster; var img = new Image(); img.src = cachebusted_url; })();

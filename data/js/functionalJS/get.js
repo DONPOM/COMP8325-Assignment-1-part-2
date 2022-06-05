@@ -1,0 +1,211 @@
+cb_1417669749726_30918733(
+{
+    "data": [{
+        "type": 1,
+        "url": "http:\/\/news.sina.com.cn\/c\/2014-12-04\/084131243584.shtml?cre=sinapc&mod=g&loc=1&r=h&rfunc=-1",
+        "title": "十八大反腐以来首现女将军落马(图)",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/travel.sina.com.cn\/zl\/yazhou\/blog\/2014-11-28\/1138381\/1869990417\/6f75ca110102v7jl.shtml?cre=sinapc&mod=g&loc=2&r=h&rfunc=-1",
+        "title": "荔波瑶寨 白裤瑶族的真实生活",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.ent.sina.com.cn\/star\/jp\/slide_4_704_96676.html?cre=sinapc&mod=g&loc=3&r=h&rfunc=-1",
+        "title": "组图：深田恭子露蜜桃臀成日本女性最爱新闻",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/health.sina.com.cn\/hc\/ys\/2014-12-04\/0728159434.shtml?cre=sinapc&mod=g&loc=4&r=h&rfunc=-1",
+        "title": "做不到三点别吃红薯",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/history.sina.com.cn\/bk\/kzs\/2014-12-02\/1030110406.shtml?cre=sinapc&mod=g&loc=5&r=h&rfunc=-1",
+        "title": "魏特琳日记：被日本兵抢走的女人一夜被轮奸20多次",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.tech.sina.com.cn\/d\/slide_5_453_55439.html?cre=sinapc&mod=g&loc=6&r=h&rfunc=-1",
+        "title": "火星表面现“奥巴马头像”：UFO迷怀疑3D打印",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.astro.sina.com.cn\/slide_52_42283_33040.html?cre=sinapc&mod=g&loc=7&r=h&rfunc=-1",
+        "title": "如何让12星座一直爱你？",
+        "reason": 1
+    }, {
+        "type": 4,
+        "url": "http:\/\/blog.sina.com.cn\/s\/blog_62df4ec10102v74s.html?cre=sinapc&mod=g&loc=8&r=h&rfunc=-1",
+        "title": "金瓶梅里让人嘴馋的精品小点心",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/eladies.sina.com.cn\/feel\/koushu\/2014-12-02\/1750\/doc-iavxeafr5682454.shtml?cre=sinapc&mod=g&loc=9&r=h&rfunc=-1",
+        "title": "口述：婆婆不让老公和我一起吃饭怎么办",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.news.sina.com.cn\/c\/slide_1_2841_77706.html?cre=sinapc&mod=g&loc=10&r=h&rfunc=-1",
+        "title": "十八大后首个落马女将军照片曝光",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.travel.sina.com.cn\/slide_68_57366_24743.html?cre=sinapc&mod=g&loc=11&r=h&rfunc=-1",
+        "title": "圣托里尼香艳的卡马利黑沙滩",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.ent.sina.com.cn\/tv\/slide_4_704_96698.html?cre=sinapc&mod=g&loc=12&r=h&rfunc=-1",
+        "title": "组图：范冰冰82岁鹤发苍颜 还原垂暮武则天",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/health.sina.com.cn\/zl\/s\/2014-12-04\/0728159450.shtml?cre=sinapc&mod=g&loc=13&r=h&rfunc=-1",
+        "title": "性爱中的女人最看重啥",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/history.sina.com.cn\/bk\/kzs\/2014-12-01\/1403110308.shtml?cre=sinapc&mod=g&loc=14&r=h&rfunc=-1",
+        "title": "侵华日军自述：“干了70岁的老太婆，腰都变轻了”",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/tech.sina.com.cn\/mobile\/n\/2014-12-04\/08139851094.shtml?cre=sinapc&mod=g&loc=15&r=h&rfunc=-1",
+        "title": "2GB RAM？ iPhone 7硬件参数曝光",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/auto.sina.com.cn\/news\/2014-12-03\/18411365296.shtml?cre=sinapc&mod=g&loc=16&r=h&rfunc=-1",
+        "title": "2015款RAV4上市 售价18.38-27.28万元",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/astro.sina.com.cn\/v\/2014-12-03\/1435119183.shtml?cre=sinapc&mod=g&loc=17&r=h&rfunc=-1",
+        "title": "星座百科：12星座12月展望(组图)",
+        "reason": 1
+    }, {
+        "type": 4,
+        "url": "http:\/\/blog.sina.com.cn\/s\/blog_d67313a70102vabl.html?cre=sinapc&mod=g&loc=18&r=h&rfunc=-1",
+        "title": "寒冬深受全家喜爱的板栗鸡翅",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/eladies.sina.com.cn\/feel\/koushu\/2014-12-01\/1650\/doc-icczmvun0791049.shtml?cre=sinapc&mod=g&loc=19&r=h&rfunc=-1",
+        "title": "口述：老公逼我和他的初恋女友做姐妹",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/news.sina.com.cn\/c\/2014-12-04\/000731241385.shtml?cre=sinapc&mod=g&loc=20&r=h&rfunc=-1",
+        "title": "云南临沧一所初中多名女生疑遭强迫卖淫(图)",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.travel.sina.com.cn\/slide_68_57328_24730.html?cre=sinapc&mod=g&loc=21&r=h&rfunc=-1",
+        "title": "婺源 在理坑静享悠闲时光",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.ent.sina.com.cn\/y\/slide_4_704_96713.html?cre=sinapc&mod=g&loc=22&r=h&rfunc=-1",
+        "title": "组图：天娱00后组合亮相文化峰会 弹吉他耍帅",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/health.sina.com.cn\/hc\/ys\/2014-12-04\/0730159395.shtml?cre=sinapc&mod=g&loc=23&r=h&rfunc=-1",
+        "title": "常吃荷包蛋有哪些坏处",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/history.sina.com.cn\/bk\/wgs\/2014-12-03\/1422110550.shtml?cre=sinapc&mod=g&loc=24&r=h&rfunc=-1",
+        "title": "朱德身处逆境心生质疑：江青的本事能有多大",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.tech.sina.com.cn\/d\/slide_5_453_55433.html?cre=sinapc&mod=g&loc=25&r=h&rfunc=-1",
+        "title": "俄科学家揭秘8年前“海怪”照片：大白鲸遗骸",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/auto.sina.com.cn\/news\/2014-12-04\/07001365414.shtml?cre=sinapc&mod=g&loc=26&r=h&rfunc=-1",
+        "title": "路虎国产极光将推-入门版 售价全面下调",
+        "reason": 1
+    }, {
+        "type": 4,
+        "url": "http:\/\/blog.sina.com.cn\/s\/blog_8a43732c0102vrhz.html?cre=sinapc&mod=g&loc=27&r=h&rfunc=-1",
+        "title": "让人欲罢不能蒜香黄金小土豆",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/eladies.sina.com.cn\/feel\/xinli\/2014-12-03\/0747\/doc-icesifvw9827833.shtml?cre=sinapc&mod=g&loc=28&r=h&rfunc=-1",
+        "title": "亲密≠无间 小心捆得太紧让他“窒息”",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.news.sina.com.cn\/s\/slide_1_2841_77700.html?cre=sinapc&mod=g&loc=29&r=h&rfunc=-1",
+        "title": "少女因爱跳河闺蜜陪跳 男友搭救3人溺亡",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.ent.sina.com.cn\/y\/k\/slide_4_704_96678.html?cre=sinapc&mod=g&loc=30&r=h&rfunc=-1",
+        "title": "组图：EXO斩获MAMA四奖 刘德华被赞最帅欧巴",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/health.sina.com.cn\/hc\/ys\/2014-12-04\/0729159421.shtml?cre=sinapc&mod=g&loc=31&r=h&rfunc=-1",
+        "title": "究竟谁才是蔬菜皇后",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/history.sina.com.cn\/bk\/jgcqs\/2014-12-03\/0950110516.shtml?cre=sinapc&mod=g&loc=32&r=h&rfunc=-1",
+        "title": "邓颖超本应上天安门观礼却被谁划掉名字？",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/tech.sina.com.cn\/it\/2014-12-04\/07039850888.shtml?cre=sinapc&mod=g&loc=33&r=h&rfunc=-1",
+        "title": "90后大三学生真人游戏设计卖到淘宝第一",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/auto.sina.com.cn\/news\/2014-12-04\/07001365409.shtml?cre=sinapc&mod=g&loc=34&r=h&rfunc=-1",
+        "title": "奥迪加速在华布局 明年将推出12款新车",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/astro.sina.com.cn\/v\/2014-12-02\/1146119061.shtml?cre=sinapc&mod=g&loc=35&r=h&rfunc=-1",
+        "title": "2015年运势:GEO版(组图)",
+        "reason": 1
+    }, {
+        "type": 4,
+        "url": "http:\/\/blog.sina.com.cn\/s\/blog_44c8ead50102v5k9.html?cre=sinapc&mod=g&loc=36&r=h&rfunc=-1",
+        "title": "韩式辣豆腐汤：极简单又好吃的暖身汤食",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/eladies.sina.com.cn\/feel\/koushu\/2014-12-04\/1008\/doc-icczmvun0849846.shtml?cre=sinapc&mod=g&loc=37&r=h&rfunc=-1",
+        "title": "口述：老公和隔壁女人当我面打情骂俏",
+        "reason": 1
+    }, {
+        "type": 1,
+        "url": "http:\/\/news.sina.com.cn\/c\/2014-12-04\/082731243512.shtml?cre=sinapc&mod=g&loc=38&r=h&rfunc=-1",
+        "title": "我国明年起器官移植将全面停止死囚器官捐献",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.travel.sina.com.cn\/slide_68_57338_24700.html?cre=sinapc&mod=g&loc=39&r=h&rfunc=-1",
+        "title": "走遍121国的行者 洛艺嘉",
+        "reason": 1
+    }, {
+        "type": 2,
+        "url": "http:\/\/slide.ent.sina.com.cn\/star\/slide_4_704_96683.html?cre=sinapc&mod=g&loc=40&r=h&rfunc=-1",
+        "title": "组图：苏永康办婚宴 曾志伟喝多倒头大睡任人玩",
+        "reason": 1
+    }
+    ],
+    "status": {
+        "msg": "succ",
+        "total": 171,
+        "code": 0
+    }
+});
+

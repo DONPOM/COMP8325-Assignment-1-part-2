@@ -1,0 +1,1 @@
+bigPipe.onPageletArrive({"content":{"pagelet_welcome_box":{"container_id":"u_0_o"}},"jsmods":{"require":[["AsyncRequestNectarLogging"]]},"css":["hfx68","Yke0t","HDTH6"],"js":["MBP\/U","D0r9B","st9+4"],"id":"pagelet_welcome_box","phase":1,"categories":["left_column"]})

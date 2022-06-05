@@ -1,0 +1,1 @@
+(function(){var b=window._fbq||(window._fbq=[]);if(!b.loaded){var a=document.createElement("script");a.async=!0;a.src="//connect.facebook.net/en_US/fbds.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(a,c);b.loaded=!0}})();window._fbq=window._fbq||[];window._fbq.push(["track","6019339291645",{value:"0.00",currency:"USD"}]);

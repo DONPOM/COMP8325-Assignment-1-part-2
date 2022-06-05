@@ -1,0 +1,1 @@
+if (window == top) {  setTimeout(function() {    document.getElementById("warning").style.display = 'block';  }, 2000);}	

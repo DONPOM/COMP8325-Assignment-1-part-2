@@ -1,0 +1,3 @@
+window['initInlineShell'](["https://www.google.com.au",1,,"0",600,"/_/scs/apps-static/_/js/k\u003doz.sbw.en.xffuNRgtCDI.O/m\u003dsbw_base,sbw_card,sbw_s/am\u003dwCZCAAggYg/rt\u003dj/d\u003d1/t\u003dzcms/rs\u003dAGLTcCOStX3gm-HcOesOyk5lObaUkHCV2g",1,"/_/scs/apps-static/_/ss/k\u003doz.sbw_dss.13lvdutofu8d6.L.W.O/am\u003dwCZCAAggYg/d\u003d0/rs\u003dAGLTcCPF1zyiiiv4YLBaOqUl9xL2aLQqFw",1,"bounce",,1.416813756757E12,,"/_/scs/apps-static/_/js/k\u003doz.sbw.en.xffuNRgtCDI.O/m\u003dsbw_base,sbw_card/am\u003dwCZCAAggYg/rt\u003dj/d\u003d1/t\u003dzcms/rs\u003dAGLTcCOStX3gm-HcOesOyk5lObaUkHCV2g",,400,,[0,"0",0.0,0]
+,162]
+);

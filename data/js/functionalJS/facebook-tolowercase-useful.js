@@ -1,0 +1,1 @@
+if(document.domain.toLowerCase().match(/(^|\.)facebook\..*/))document.domain="facebook.com";

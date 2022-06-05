@@ -1,0 +1,2 @@
+if(typeof LI==='undefined'||!LI){window.LI={};}
+LI.JSContentBasePath="https://static.licdn.com/scds/concat/common/js?v=build-2000_8_39926-prod&fc=1";LI.CSSContentBasePath="https://static.licdn.com/scds/concat/common/css?v=build-2000_8_39926-prod&fc=1";LI.injectRelayHtmlUrl="https://static.licdn.com/scds/common/u/lib/inject/0.4.2/relay.html";LI.injectRelaySwfUrl="https://static.licdn.com/scds/common/u/lib/inject/0.4.2/relay.swf";LI.comboBaseUrl="https://static.licdn.com/scds/concat/common/css?v=build-2000_8_39926-prod&fc=1";LI.staticUrlHashEnabled=true;

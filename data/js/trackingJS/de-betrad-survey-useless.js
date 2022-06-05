@@ -1,0 +1,1 @@
+  if ('1') {  document.write('<script src="http://c.betrad.com/surly.js?;ad_w=160;ad_h=600;coid=322;nid=4311;cps=1"></sc' + 'ript>');  }

@@ -1,0 +1,1 @@
+try { var yaCounter722545 = new Ya.Metrika({id:722545, accurateTrackBounce: 10000});} catch(e) { }

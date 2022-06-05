@@ -1,0 +1,7 @@
+(function(){if(!guardian.css.loaded){function injectElement(e){var head=document.getElementsByTagName('head')[0];head.appendChild(e);}
+function inlineCss(c){var s=document.createElement('style');s.innerHTML=c;s.setAttribute('data-loaded-from','ajax');injectElement(s);}
+function storeCss(c){Object.keys(localStorage).forEach(function(key){if(key.match(/^gu.css./g)){localStorage.removeItem(key);}});try{localStorage.setItem('gu.css.0e15231b7e4e2bd632499dc588696354',c);}catch(e){}}
+function loadCssWithLink(){var l=document.createElement('link');l.rel="stylesheet";l.type='text/css';l.href='http://assets.guim.co.uk/stylesheets/0e15231b7e4e2bd632499dc588696354/global.css';injectElement(l);}
+function loadCssWithAjax(){var xhr=new XMLHttpRequest();xhr.open('GET','http://assets.guim.co.uk/stylesheets/0e15231b7e4e2bd632499dc588696354/global.css?page=ajax',true);xhr.onreadystatechange=function(){if(xhr.readyState===4){if(xhr.status===200){inlineCss(xhr.responseText);storeCss(xhr.responseText);}else{loadCssWithLink();};}}
+xhr.timeout=5000;xhr.send();}
+if(guardian.isModernBrowser&&'withCredentials'in new XMLHttpRequest()&&!/W(indows Phone|PDesktop)/.test(navigator.userAgent)){loadCssWithAjax();}else{loadCssWithLink();}}})();

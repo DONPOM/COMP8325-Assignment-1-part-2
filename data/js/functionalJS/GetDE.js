@@ -1,0 +1,1 @@
+var countryisocode = "aus"; var state = "queensland"; var connection = "broadband"; 

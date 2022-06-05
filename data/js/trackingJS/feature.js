@@ -1,0 +1,51 @@
+
+tbcc_items_discounts_1417669760009([{
+    "promoOtherNeed": "",
+    "promoPrice": "138.00",
+    "auction_id": "41869073539"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "359.00",
+    "auction_id": "19538766573"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "65.00",
+    "auction_id": "40958102046"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "960.00",
+    "auction_id": "40485487822"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "46000.00",
+    "auction_id": "6777105318"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "248.00",
+    "auction_id": "21406128370"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "945.00",
+    "auction_id": "40924209013"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "268.00",
+    "auction_id": "41643088331"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "1390.00",
+    "auction_id": "8688613060"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "99.00",
+    "auction_id": "42097866334"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "7900.00",
+    "auction_id": "35596035813"
+}, {
+    "promoOtherNeed": "",
+    "promoPrice": "558.00",
+    "auction_id": "41838353556"
+}
+])

@@ -1,0 +1,1 @@
+jQuery(document).ready(function($) { $('.sharebar').sharebar({horizontal:'true',swidth:'75',minwidth:1000,position:'left',leftOffset:20,rightOffset:10}); });

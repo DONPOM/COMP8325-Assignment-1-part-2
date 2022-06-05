@@ -1,0 +1,1 @@
+LI.define('Tracking.Quantcast');LI.Tracking.Quantcast=function(){_qoptions={qacct:"p-b3sGjMtCFrexE"};YAHOO.util.Get.script('https://secure.quantserve.com/quant.js');};YEvent.on(window,'load',LI.Tracking.Quantcast);

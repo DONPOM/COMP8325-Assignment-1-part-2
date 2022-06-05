@@ -1,0 +1,12 @@
+rubicon_cb = Math.random();
+rubicon_rurl = document.referrer;
+if (top.location == document.location) {
+    rubicon_rurl = document.location;
+}
+rubicon_rurl = escape(rubicon_rurl);
+window.rubicon_ad = "1524028" + "." + "js";
+window.rubicon_creative = "3423799" + "." + "js";
+rubicon_tag_code = "<script type=\"text/javascript\">\ngoogle_ad_client = \"pub-9583084212935241\";\ngoogle_kw_type = \"broad\";\ngoogle_kw=\"ecommerce\"; \ngoogle_ad_width = 160;\ngoogle_ad_height = 600;\ngoogle_ad_format = \"160x600_as\";\ngoogle_ad_type = \"text_image\";\ngoogle_page_url = \"http://www.statcounter.com\";\ngoogle_ad_channel=\"9186617663 7252437058\";\ngoogle_color_border = \"FFFFFF\";\ngoogle_color_bg = \"FFFFFF\";\ngoogle_color_link = \"000000\";\ngoogle_color_url = \"000000\";\ngoogle_color_text = \"000000\";\n<\/script>\n<script type=\"text/javascript\"\n  src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\">\n<\/script>";
+rubicon_tag_code = rubicon_tag_code.replace(/##RUBICON_CB##/g, rubicon_cb);
+document.write(rubicon_tag_code);
+document.write("<script>\nvar _comscore = _comscore || [];\n(function() {\n var rp_cats = \"IAB19\";\n var rp_cat = 24*1000;\n if (rp_cats) {\n	rp_cats = rp_cats.replace(/IAB/g,\"\").split(\",\");\n	if (rp_cats.length > 0 && rp_cats[0] && rp_cats[0].length > 0) {\n		rp_cat = rp_cats[0].split(\"-\")[0];\n		rp_cat = rp_cat * 1000;\n	}\n }\n var _comscore_switch = \"au\";\n _comscore.push({ c1: \"8\", c2: \"6135404\", c3: rp_cat, c4: \"12135\", c10: \"3423799\" }); \n if ( _comscore_switch == \"us\" )  {\n   (function() { var s = document.createElement(\"script\"), el = document.getElementsByTagName(\"script\")[0]; s.async = true; s.src = (document.location.protocol == \"https:\" ? \"https://sb\" : \"http://b\") + \".scorecardresearch.com/beacon.js\"; \n   el.parentNode.insertBefore(s, el); \n   })(); \n }\n   \n})();\n<\/script><DIV STYLE=\"height: 0px; width: 0px; overflow: hidden\">\n<script>\n(function() {var proto = document.location.protocol; var server=\"http://tap2-cdn.rubiconproject.com\"; if (proto == \"https:\") server=\"https://tap-secure.rubiconproject.com\"; document.write(\'<IFRAME SRC=\"\'+server+\'/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=7554/12135&geo=as&co=au\" FRAMEBORDER=\"0\" MARGINWIDTH=\"0\" MARGINHEIGHT=\"0\" SCROLLING=\"NO\" WIDTH=\"0\" HEIGHT=\"0\" style=\"height: 0px; width: 0px\"></IFRAME>\'); })();\n<\/script>\n\n</DIV>");

@@ -1,0 +1,1 @@
+YEvent.on(window,'load',function(){(function(){var protocol='https:';var d=new Image(1,1);d.onerror=d.onload=function(){d.onerror=d.onload=null;};d.src=[protocol,"//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603751h&cg=0&cc=1&si=",escape(window.location.href),"&ts=compact&rnd=",(new Date()).getTime()].join('');})();});

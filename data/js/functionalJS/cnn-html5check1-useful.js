@@ -1,0 +1,1 @@
+if(html5Check){Event.observe(window,'load',function(){$('cnn_ipadappbanner').update('<div class="cnn_ipadappbanner1"><a href="http://itunes.apple.com/us/app/cnn-app-for-ipad/id407824176?mt=8"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/main/CNNI_iPad_banner_980x50_120910.png" width="980" height="50" alt="" border="0"/></a></div>');});}

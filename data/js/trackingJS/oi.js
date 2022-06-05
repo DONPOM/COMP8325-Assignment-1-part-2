@@ -1,0 +1,1 @@
+yadsRenderAd_v2([],{output_type:"js_single",callback:"",js_file_name:"",noad_callback:"YAHOO.JP.anemos.yads.ytoptrb.eraseRightBox",adprodset_code:"98723_15862-18943-21583",request_id:"6f82237e8ce2f10a640e85373fc80774",vimps_mode:0,tracking_url:null,pos_info:[{p_elem:"yads-trb",ib_url:"",viewable_info:null}]});

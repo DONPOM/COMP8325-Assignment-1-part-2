@@ -1,0 +1,1 @@
+(function(){var a=window._fbq||(window._fbq=[]);if(!a.loaded){var b=document.createElement("script");b.async=!0;b.src="//connect.facebook.net/en_US/fbds.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);a.loaded=!0}a.push(["addPixelId","231792063685557"])})();window._fbq=window._fbq||[];window._fbq.push(["track","PixelInitialized",{}]);

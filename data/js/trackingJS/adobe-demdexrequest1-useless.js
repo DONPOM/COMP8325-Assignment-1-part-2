@@ -1,0 +1,10 @@
+var mboxCurrent = mboxFactories.get('default').get('adbe_au_index_content', 0);
+mboxCurrent.setEventTime('include.start');
+document.write('<div style="visibility: hidden; display: none" id="mboxImported-default-adbe_au_index_content-0">');
+document.write('<!-- Offer Id: 90039  --><script type=\"text\/javascript\">\r\nvar tntGeocountry  = \'australia\'+\'\';\r\n<\/script>');
+document.write('<!-- Offer Id: 97560  --><script type=\"text\/javascript\">\r\n\/*mboxHighlight+ (1of2) v1 ==> Response Plugin*\/\r\nwindow.ttMETA=(typeof(window.ttMETA)!=\'undefined\')?window.ttMETA:[];window.ttMETA.push({\'mbox\':\'adbe_au_index_content\',\'campaign\':\'\',\'experience\':\'\',\'offer\':\'\'});window.ttMBX=function(x){var mbxList=[];for(i=0;i<ttMETA.length;i++){if(ttMETA[i].mbox==x.getName()){mbxList.push(ttMETA[i])}}return mbxList[x.getId()]}\r\n<\/script>');
+mboxFactories.get('default').get('adbe_au_index_content', 0).setOffer(new mboxOfferDefault()).loaded();
+document.write('</div>');
+mboxCurrent.setEventTime('include.end');
+mboxFactories.get('default').get('adbe_au_index_content', 0).loaded();
+mboxFactories.get('default').getPCId().forceId("1416821076979-435661.27_01");

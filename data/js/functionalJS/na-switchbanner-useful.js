@@ -1,0 +1,1 @@
+function switchBanner(bannerName){var bannerFrame = document.getElementById('ads');bannerFrame.src = bannerName ;}

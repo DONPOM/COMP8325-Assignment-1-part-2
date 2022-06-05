@@ -1,0 +1,1 @@
+if (typeof cFact=='object' && typeof cFact.main=='function') { cFact.main(); }

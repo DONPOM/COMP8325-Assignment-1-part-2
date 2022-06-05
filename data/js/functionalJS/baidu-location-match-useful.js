@@ -1,0 +1,1 @@
+if(!location.hash.match(/[^a-zA-Z0-9]wd=/)){document.getElementById("wrapper").style.display='block';setTimeout(function(){try{var kw=document.getElementById("kw");kw.focus();if(kw.parentNode.className.indexOf("quickdelete") != -1){kw.parentNode.parentNode.className="bg s_ipt_wr iptfocus";}else{kw.parentNode.className="bg s_ipt_wr iptfocus";}}catch(e){}},0);}

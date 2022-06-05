@@ -1,0 +1,1 @@
+var ADBOX_TEMPLATE_ID=15746;document.domain="sina.com.cn";sa.u.init();

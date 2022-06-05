@@ -1,0 +1,1 @@
+(require("ServerJSDefine")).handleDefines([["URLFragmentPreludeConfig",[],{"incorporateQuicklingFragment":true,"hashtagRedirect":true},137]]);new (require("ServerJS"))().handle({"require":[["markJSEnabled"],["lowerDomain"],["URLFragmentPrelude"],["Bootloader"],["SidebarPrelude","addSidebarMode",[],[1258,1258]]]});

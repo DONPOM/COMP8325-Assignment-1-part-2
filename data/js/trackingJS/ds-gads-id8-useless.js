@@ -1,0 +1,1 @@
+adSlot.finalize('ads');registerAdLocationExtensionRedirectPing(adSlot);

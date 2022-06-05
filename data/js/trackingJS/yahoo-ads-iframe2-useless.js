@@ -1,0 +1,1 @@
+try{ebStdBannerFlash_23469645_5771244240459055_DoFSCommand(command,args);}catch(e){}

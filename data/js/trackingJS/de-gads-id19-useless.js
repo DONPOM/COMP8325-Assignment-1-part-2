@@ -1,0 +1,1 @@
+google_ad_client="ca-pub-3913451939716508";google_ad_height=600;google_ad_slot="7918697647";google_ad_width=160;google_loader_used="sa";google_ad_format="";google_ad_unit_key="807188476";google_show_ads_impl=true;google_unique_id=3;google_async_iframe_id="aswift_2";google_start_time=1418020089179;google_bpp=1;google_async_rrc=0;

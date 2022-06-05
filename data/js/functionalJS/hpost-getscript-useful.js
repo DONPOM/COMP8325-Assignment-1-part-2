@@ -1,0 +1,5 @@
+
+        jQuery.getScript('http://s.huffpost.com/assets/js.php?v=1417679070&f=flashobjectmin.js%2Cjquery%2Fcolor.jquery.js%2C_tmp%2Ffloating_promt.js%2C_tmp%2Fquick_subscribe_user.js%2C_tmp%2Fquick_fan.js%2Cprovider.js%2Cposts.js%2Cmost_popular.js%2Clazyload-min.js%2Cuser.js%2Csocial_friends.js%2Cuser%2Frecommendations.js%2Csitemode.js%2Csplash_slideshow.js%2Cpopup_manager.js%2Cbadges_v2.js%2Cuser_levels.js%2Csharer.js%2Chuffconnect.js%2Cconnect_overview.js%2Cbing.js%2Chptwitter.js%2Cjquery%2Fui%2Fjquery.ui.core.min.js%2Cjquery%2Fui%2Fjquery.ui.widget.min.js%2Cjquery%2Fui%2Fjquery.ui.position.min.js%2Cjquery%2Fui%2Fjquery.ui.autocomplete.min.js%2Cjquery%2Fjquery.backgroundPosition.js%2Cjquery%2Fjquery.mousewheel-min.js%2C_tmp%2Fevent_module.js%2C_tmp%2Fdoc_status.js%2C_tmp%2Fview_tracker.js%2C_tmp%2Fslider.js%2C_tmp%2Fstructured_image.js%2C_tmp%2Fcurtain.js%2C_tmp%2Fpaginator.js%2C_tmp%2Fon_focus_timer.js%2C_tmp%2Ftwitter_util.js%2C_tmp%2Faol_search.js%2C_tmp%2Felection_widgets.js%2C_tmp%2Fhot_keys.js', function(){
+            huff.emit('ready');
+        });
+    

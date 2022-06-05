@@ -1,0 +1,11 @@
+var cnnIsHomePage=true,
+cnnCVPAdSection='edition.cnn.com_main_homepage',
+cnnIsSectionPage=true,
+cnnPageName="CNN International Home Page",
+cnnSectionName="CNN International Home Page",
+sectionName="homepage",
+cnn_edtnswtchver="edition",
+cnnCurrTime=new Date(1417566487000),
+cnnCurrHour=19,
+cnnCurrMin=28,
+cnnCurrDay='Tue';

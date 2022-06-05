@@ -1,0 +1,1 @@
+var cnnDocDomain=''; if(location.hostname.indexOf('cnn.com')>0) { cnnDocDomain='cnn.com'; } if(location.hostname.indexOf('turner.com')>0) { cnnDocDomain='turner.com'; } if(location.hostname.indexOf('nascar.com')>0) { cnnDocDomain='nascar.com'; } if(location.hostname.indexOf('pga.com')>0) { cnnDocDomain='pga.com'; } if(cnnDocDomain) { document.domain = cnnDocDomain;}

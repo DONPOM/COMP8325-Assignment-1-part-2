@@ -1,0 +1,1 @@
+initSogouHotWord(document.forms['soso_search_box'], document.getElementById('sougouTxt'));

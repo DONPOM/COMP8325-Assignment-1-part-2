@@ -1,0 +1,1 @@
+ServerJSQueue.add(function(){requireLazy(["Bootloader"], function(Bootloader) {Bootloader.enableBootload({"React":{"resources":[],"module":true},"ExceptionDialog":{"resources":[],"module":true},"AsyncDOM":{"resources":[],"module":true},"ConfirmationDialog":{"resources":[],"module":true},"Dialog":{"resources":[],"module":true}});});});

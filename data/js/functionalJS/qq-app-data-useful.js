@@ -1,0 +1,410 @@
+qqastro([{
+    "astro": "\u767d\u7f8a\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "80%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "80%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u8910\u8272\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "12"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u5929\u79e4\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u4eca\u5929\u7684\u4f60\u5f00\u59cb\u5fc3\u65e0\u65c1\u9a9b\uff0c\u5f88\u8ba4\u771f\u52aa\u529b\u5bf9\u5f85\u4f60\u7684\u4e8b\u4e1a\u6216\u5b66\u4e1a\uff0c\u96c6\u4e2d\u7cbe\u795e\u548c\u4e13\u6ce8\u7684\u6001\u5ea6\u90fd\u80fd\u53d7\u5230\u4ed6\u4eba\u7684\u80af\u5b9a\uff0c\u800c\u4e14\u4f60\u4f1a\u53bb\u89c4\u5212\u548c\u8bbe\u5b9a\u76ee\u6807\uff0c\u5e76\u4e14\u5f00\u59cb\u575a\u6301\u81ea\u5df1\u7684\u9009\u62e9\uff0c\u52aa\u529b\u53bb\u5b9e\u884c\u3002\u76f8\u8f83\u4e8e\u5de5\u4f5c\u4e0a\u7684\u52aa\u529b\u8ba4\u771f\uff0c\u5728\u604b\u7231\u8fd0\u4e0a\u4f1a\u7a0d\u7a0d\u7a33\u5b9a\u4e9b\uff0c\u4e0d\u5982\u6628\u65e5\u90a3\u4e48\u70ed\u70c8\u751c\u871c\uff0c\u5f00\u59cb\u7ef4\u6301\u5728\u5e73\u548c\u7a33\u5b9a\u7684\u72b6\u6001\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 10:00:58",
+    "url": "\/dayastro\/72\/72080\/index.shtml"
+}, {
+    "astro": "\u91d1\u725b\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "90%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "80%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u767d\u8272\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "4"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u91d1\u725b\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u5fc3\u60c5\u76f8\u5f53\u8f7b\u677e\uff0c\u505a\u4e8b\u4e5f\u633a\u987a\u624b\u7684\u4e00\u5929\uff0c\u5b66\u4e60\u8fd0\u4e5f\u7b97\u4e0d\u9519\u3002\u6709\u673a\u4f1a\u56e0\u4e3a\u8868\u73b0\u4f18\u5f02\uff0c\u800c\u5728\u804c\u573a\u6216\u5b66\u4e1a\u4e0a\u5f97\u5230\u4e0a\u7ea7\u80af\u5b9a\uff0c\u6216\u662f\u7a81\u7834\u67d0\u4e9b\u56f0\u96be\uff0c\u5f97\u5230\u65b0\u542f\u53d1\u4e0e\u9886\u609f\u3002\u548c\u670b\u53cb\u76f8\u5904\u4e5f\u5f88\u5408\u62cd\uff0c\u7b97\u662f\u8fd9\u6bb5\u8f9b\u52b3\u538b\u529b\u4e0d\u65ad\u7684\u65e5\u5b50\u91cc\uff0c\u76f8\u5f53\u60ec\u610f\u7684\u65f6\u5149\u56c9\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 10:06:40",
+    "url": "\/dayastro\/72\/72325\/index.shtml"
+}, {
+    "astro": "\u53cc\u5b50\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "55%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "60%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "60%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "50%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "55%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u7070\u84dd\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "9"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u767d\u7f8a\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u4eca\u5929\u7684\u4f60\u5bb9\u6613\u56e0\u4e3a\u67d0\u4e9b\u4e8b\u60c5\u800c\u94bb\u725b\u89d2\u5c16\uff0c\u6709\u65f6\u8fd8\u4f1a\u663e\u5f97\u81ea\u66b4\u81ea\u5f03\uff0c\u867d\u7136\u72b6\u51b5\u53ef\u80fd\u4e0d\u5f88\u4e25\u91cd\uff0c\u4f46\u662f\u5df2\u7ecf\u8db3\u4ee5\u8ba9\u8eab\u8fb9\u7684\u4eba\u4e3a\u4f60\u62c5\u5fc3\u4e86\u5462\uff01\u662f\u4ee5\u672c\u65e5\u4e0d\u8981\u7559\u7ed9\u81ea\u5df1\u592a\u591a\u80e1\u601d\u4e71\u60f3\u7684\u65f6\u95f4\uff0c\u6700\u597d\u627e\u4e8b\u60c5\u628a\u884c\u7a0b\u90fd\u586b\u6ee1\uff0c\u6ca1\u6709\u65f6\u95f4\u6c88\u601d\u5fc3\u60c5\u5c31\u4e0d\u4f1a\u592a\u8fc7\u4f4e\u843d\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 10:26:24",
+    "url": "\/dayastro\/72\/72570\/index.shtml"
+}, {
+    "astro": "\u5de8\u87f9\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "65%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "60%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "85%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u7ea2\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "0"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u53cc\u5b50\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u672c\u8eab\u5c31\u5f88\u5bb9\u6613\u53d7\u4ed6\u4eba\u5f71\u54cd\u7684\u4f60\uff0c\u4eca\u5929\u4e00\u65e6\u9047\u5230\u60c5\u7eea\u5316\u7684\u4eba\u4e5f\u4f1a\u8ddf\u7740\u5931\u63a7\uff0c\u65e0\u8bba\u662f\u5de5\u4f5c\u4f19\u4f34\u7684\u83ab\u540d\u5176\u5999\uff0c\u6216\u662f\u4eb2\u5bc6\u60c5\u4eba\u7684\u602a\u91cc\u602a\u6c14\uff0c\u90fd\u4f1a\u8ba9\u4f60\u611f\u5230\u5341\u5206\u4e0d\u8212\u670d\u3002\u4f46\u4f60\u4f3c\u4e4e\u5f97\u6682\u65f6\u5fcd\u8010\uff0c\u987a\u7740\u5bf9\u65b9\u4e00\u70b9\u5427\uff0c\u7b49\u5bf9\u65b9\u813e\u6c14\u8fc7\u4e86\uff0c\u4f60\u4eec\u7684\u6c9f\u901a\u4e5f\u4f1a\u6062\u590d\u6b63\u5e38\u56c9\uff01"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 10:36:55",
+    "url": "\/dayastro\/72\/72815\/index.shtml"
+}, {
+    "astro": "\u72ee\u5b50\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "80%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u7ea2\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "8"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u91d1\u725b\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u5728\u5de5\u4f5c\u4e0a\u529b\u6c42\u8868\u73b0\u7684\u4e00\u5929\uff0c\u8d23\u4efb\u5fc3\u5f3a\u4f1a\u8981\u6c42\u5de5\u4f5c\u7ec6\u8282\uff0c\u82e5\u662f\u8fc7\u5ea6\u4e25\u82db\u53cd\u800c\u4f1a\u9020\u6210\u4ed6\u4eba\u7684\u56f0\u6270\uff0c\u996e\u98df\u4e0a\u5b9c\u5c11\u5403\u6cb9\u817b\u6216\u91cd\u54b8\u7684\u98df\u7269\u624d\u4e0d\u4f1a\u80a0\u80c3\u6d88\u5316\u4e0d\u826f\uff0c\u4eca\u5929\u7684\u7231\u60c5\u5728\u4ed6\u4e61\uff0c\u5355\u8eab\u8005\u82e5\u5916\u51fa\u6709\u673a\u4f1a\u9082\u9005\u7406\u60f3\u7684\u5fc3\u4eea\u5bf9\u8c61\uff0c\u604b\u7231\u8005\u611f\u60c5\u7a33\u5b9a\uff0c\u5e73\u6de1\u4e2d\u6709\u6d6a\u6f2b\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 10:51:08",
+    "url": "\/dayastro\/73\/73060\/index.shtml"
+}, {
+    "astro": "\u5904\u5973\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "68%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "64%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "63%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "64%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "66%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u7eff\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "14"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u767d\u7f8a\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u611f\u60c5\u4e0a\u4f1a\u5e38\u6709\u529b\u4e0d\u4ece\u5fc3\u7684\u611f\u89c9\uff0c\u5185\u5fc3\u60f3\u8981\u53bb\u6267\u884c\u67d0\u4e9b\u4e8b\u60c5\uff0c\u5374\u603b\u662f\u9047\u5230\u4e0d\u53ef\u6297\u62d2\u7684\u56e0\u7d20\u6765\u963b\u788d\uff0c\u5373\u4f7f\u8bbe\u60f3\u4e86\u5404\u79cd\u60c5\u51b5\uff0c\u4f46\u4ecd\u6709\u6f0f\u7f51\u4e4b\u9c7c\uff0c\u82e5\u662f\u592a\u8fc7\u5f3a\u6c42\u53cd\u800c\u4f1a\u9020\u6210\u53cd\u6548\u679c\uff0c\u4e0d\u59a8\u5148\u50a8\u5907\u7cbe\u529b\uff0c\u628a\u4e8b\u60c5\u7531\u7e41\u5316\u7b80\uff0c\u907f\u514d\u4e0d\u5fc5\u8981\u7684\u4f5c\u4e3a\u9020\u6210\u6469\u64e6\u56c9\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 10:56:44",
+    "url": "\/dayastro\/73\/73305\/index.shtml"
+}, {
+    "astro": "\u5929\u79e4\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "88%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "88%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "88%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "80%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "90%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u9ed1\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "3"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u6c34\u74f6\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u53d7\u5230\u6708\u4eae\u7684\u4f4d\u7f6e\u7275\u5f15\uff0c\u8ba9\u59b3\u7684\u5fc3\u6001\u53d8\u5f97\u6bd4\u8f83\u5b85\uff0c\u5728\u610f\u81ea\u5df1\u7684\u5b89\u5168\u611f\uff0c\u5bf9\u4e00\u4e9b\u6539\u53d8\u6bd4\u8f83\u5ffd\u7565\uff0c\u65e0\u5f62\u4e2d\u51cf\u5c11\u4e0e\u4ed6\u4eba\u4ea4\u6d41\u7684\u673a\u4f1a\uff0c\u81ea\u8eab\u7684\u8d44\u6e90\u6ca1\u6709\u88ab\u5f00\u901a\u3002\u8fd9\u5bf9\u4e8e\u5de5\u4f5c\u548c\u7231\u60c5\uff0c\u7a0d\u5acc\u4e0d\u5229\uff0c\u5efa\u8bae\u59b3\u5728\u7b7e\u5408\u7ea6\u6216\u662f\u505a\u9009\u62e9\u65f6\uff0c\u7ad9\u5728\u53cc\u65b9\u7acb\u573a\u770b\u6e05\u7ec6\u8282\uff0c\u907f\u514d\u56e0\u4e00\u53a2\u60c5\u613f\u800c\u5931\u671b\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 11:09:39",
+    "url": "\/dayastro\/73\/73550\/index.shtml"
+}, {
+    "astro": "\u5929\u874e\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "65%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "65%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "60%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "55%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u9752\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "1"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u53cc\u5b50\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u4eca\u5929\u662f\u91d1\u94b1\u5e78\u8fd0\u65e5\u54e6\u3002\u4e0d\u59a8\u51fa\u53bb\u8d70\u8d70\u5427\u3002\u5982\u679c\u8d76\u4e0a\u4f11\u5047\u4e0d\u5982\u4e70\u4e0a\u957f\u9014\u8f66\u7968\uff0c\u6765\u4e00\u573a\u8bf4\u8d70\u5c31\u8d70\u7684\u65c5\u884c\u3002\u65c5\u9014\u4e2d\u5355\u8eab\u7684\u8bdd\u8bf4\u4e0d\u5b9a\u4f1a\u6536\u83b7\u7231\u60c5\u3002\u6709\u4f34\u7684\u5462\uff0c\u559d\u74f6\u996e\u6599\u4e2d\u4e86\u518d\u6765\u4e00\u74f6\u4e5f\u662f\u6709\u53ef\u80fd\u7684\u54e6\u3002\u653e\u677e\u4e00\u4e0b\u957f\u4e45\u4ee5\u6765\u75b2\u60eb\u7684\u5fc3\u60c5\uff0c\u4eba\u751f\u4e0d\u53ea\u662f\u62fc\u640f\u624d\u6709\u4ef7\u503c\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 11:15:07",
+    "url": "\/dayastro\/73\/73795\/index.shtml"
+}, {
+    "astro": "\u5c04\u624b\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "65%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "60%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "50%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u9ec4\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "6"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u5929\u79e4\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u4eca\u5929\u5c31\u662f\u60f3\u968f\u7740\u81ea\u5df1\u7684\u6027\u8d28\u6765\uff0c\u60f3\u600e\u4e48\u653e\u677e\u5c31\u600e\u4e48\u653e\u677e\u3002\u867d\u7136\u5728\u522b\u4eba\u773c\u91cc\u4f60\u4f9d\u65e7\u5728\u653e\u7eb5\u81ea\u5df1\uff0c\u53ef\u662f\u53ea\u7531\u4f60\u81ea\u5df1\u6e05\u695a\uff0c\u4f60\u7684\u5934\u8111\u53ef\u4e00\u76f4\u90fd\u6ca1\u653e\u677e\uff0c\u81ea\u5df1\u6b63\u5728\u4e00\u65c1\u6084\u6084\u7684\u915d\u917f\u5927\u8ba1\u5212\u5462\uff0c\u4f60\u4f3c\u4e4e\u60f3\u5728\u5de5\u4f5c\u4e0a\u66f4\u4e0a\u4e00\u5c42\u697c\u3002\u8fd9\u6bb5\u65f6\u95f4\u662f\u4e0d\u662f\u5ffd\u7565\u4e86\u7231\u60c5\u548c\u5065\u5eb7\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 11:19:19",
+    "url": "\/dayastro\/74\/74040\/index.shtml"
+}, {
+    "astro": "\u6469\u7faf\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "80%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "85%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u8910\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "1"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u5de8\u87f9\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u4eca\u5929\u7684\u4f60\u8c61\u662f\u60f3\u8d77\u4e86\u4ec0\u4e48\uff0c\u5fc3\u60c5\u6709\u4e86\u5fae\u5999\u7684\u8d77\u4f0f\uff0c\u591a\u4e86\u4e00\u4efd\u6101\u6005\uff0c\u770b\u8d77\u6765\u95f7\u95f7\u4e0d\u4e50\u7684\u6837\u5b50\uff0c\u5de5\u4f5c\u6bd4\u8f83\u6ca1\u6709\u52a8\u529b\uff0c\u6ca1\u6709\u5173\u7cfb\uff0c\u4e0d\u9700\u8981\u786c\u662f\u903c\u81ea\u5df1\u9a6c\u4e0a\u632f\u594b\u8d77\u6765\uff0c\u4e0b\u4e86\u73ed\u5c3d\u5feb\u56de\u5bb6\u4f11\u606f\uff0c\u6ce1\u4e2a\u9999\u9999\u7684\u70ed\u6c34\u6fa1\uff0c\u8ba9\u81ea\u5df1\u597d\u597d\u6c88\u6dc0\u4e00\u4e0b\uff0c\u8bf4\u4e0d\u5b9a\u5c31\u627e\u5230\u51fa\u8def\u56c9\uff01"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 15:30:08",
+    "url": "\/dayastro\/74\/74285\/index.shtml"
+}, {
+    "astro": "\u6c34\u74f6\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "65%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "60%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "70%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "60%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "65%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u67e0\u6aac\u9ec4\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "0"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u6c34\u74f6\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u597d\u8fd0\u5728\u4e00\u70b9\u70b9\u6d88\u9000\uff0c\u4f46\u4f9d\u65e7\u4e0d\u9519\u3002\u4f60\u5bf9\u5f85\u8eab\u8fb9\u4eba\u548c\u7269\u7684\u6001\u5ea6\u4f9d\u65e7\u662f\u79ef\u6781\u7684\uff0c\u8fd9\u4e00\u70b9\u88ab\u5f88\u591a\u4eba\u8ba4\u53ef\u3002\u8fd9\u4e00\u65f6\u671f\u4f60\u4e4b\u524d\u575a\u6301\u7684\u60f3\u6cd5\u53ef\u80fd\u597d\u7684\u90fd\u88ab\u4fdd\u7559\u4e0b\u6765\u5e76\u4e14\u5b9e\u73b0\u4e86\uff0c\u574f\u7684\u60f3\u6cd5\u5c31\u70df\u6d88\u4e91\u6563\u4e86\u3002\u95f2\u6687\u4e4b\u4f59\u4f60\u4f1a\u601d\u8003\u7075\u9b42\u6df1\u5904\u7684\u95ee\u9898\uff0c\u5f88\u662f\u4f24\u8111\u7b4b\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 16:01:59",
+    "url": "\/dayastro\/74\/74530\/index.shtml"
+}, {
+    "astro": "\u53cc\u9c7c\u5ea7",
+    "fortune": [{
+        "type": "\u7efc\u5408\u6307\u6570",
+        "content": "80%"
+    }, {
+        "type": "\u7231\u60c5\u6307\u6570",
+        "content": "84%"
+    }, {
+        "type": "\u5de5\u4f5c\u6307\u6570",
+        "content": "78%"
+    }, {
+        "type": "\u8d22\u8fd0\u6307\u6570",
+        "content": "84%"
+    }, {
+        "type": "\u5065\u5eb7\u6307\u6570",
+        "content": "75%"
+    }, {
+        "type": "\u5e78\u8fd0\u989c\u8272",
+        "content": "\u7ea2\u8272"
+    }, {
+        "type": "\u5e78\u8fd0\u6570\u5b57",
+        "content": "9"
+    }, {
+        "type": "\u901f\u914d\uff31\u53cb",
+        "content": "\u5904\u5973\u5ea7"
+    }, {
+        "type": "\u4eca\u65e5\u6982\u8ff0",
+        "content": "\u4e0e\u540c\u4e8b\u95f4\u7684\u5408\u4f5c\u53d7\u963b\uff0c\u7834\u574f\u4f60\u4eca\u5929\u7684\u597d\u5fc3\u60c5\uff0c\u4e5f\u5f71\u54cd\u5230\u6c9f\u901a\u534f\u8c03\u7684\u987a\u7545\u5ea6\uff0c\u8ba9\u4f60\u4e0d\u80fd\u5f88\u6709\u6548\u7387\u5730\u5b8c\u6210\u4e8b\u60c5\uff0c\u5efa\u8bae\u4f60\u5411\u670b\u53cb\u5410\u5410\u82e6\u6c34\uff0c\u80fd\u591f\u5e2e\u52a9\u4f60\u8f6c\u6362\u5fc3\u60c5\uff0c\u670b\u53cb\u867d\u4e0d\u80fd\u5168\u7136\u7406\u89e3\u4f60\u7684\u5de5\u4f5c\uff0c\u4e0d\u8fc7\u70ed\u60c5\u7684\u52a0\u6cb9\u6253\u6c14\uff0c\u5374\u4ecd\u8ba9\u4eba\u611f\u5230\u6fc0\u52b1\u4e0d\u5c11\u3002"
+    }
+    ],
+    "day": "20141125",
+    "updatetime": "2014-04-17 16:08:19",
+    "url": "\/dayastro\/74\/74775\/index.shtml"
+}
+]);

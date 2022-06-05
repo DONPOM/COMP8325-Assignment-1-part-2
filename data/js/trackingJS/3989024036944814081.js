@@ -1,0 +1,1 @@
+/**/twttr.tfw.callbacks.tlPoll_398902403694481408_1_540614110137028608({"body":"","headers":{"status":200,"xPolling":30,"time":1418019143},"config":{"doNotTrack":"false","height":600,"expandMedia":"true","lang":"en","theme":"light"}});

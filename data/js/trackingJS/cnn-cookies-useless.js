@@ -1,0 +1,1 @@
+ var cnn_edtnswtchver="edition"; msQueueManager.init('requestFrame',ms_blankURL); if(ms_isLoggedIn()){ CNN_setCookie('CNN_member',true,854400,'/',document.domain); } 

@@ -1,0 +1,1 @@
+ window.onerror = function(message){var creativeId = typeof aanResponse !=="undefined" ? aanResponse.creativeId : ""; if(parent.ueLogError){parent.ueLogError({ message:"3pDACX-iframe"+creativeId+"-"+message , logLevel:"ERROR", attribution: "3pDACX"});} return true;}

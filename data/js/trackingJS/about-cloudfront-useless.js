@@ -1,0 +1,2 @@
+(function(a){var b="about.com",c=a.body;a=a.createElement("div");a.innerHTML='\x3cspan id\x3d"parsely-cfg" data-parsely-site\x3d"'+b+'"\x3e\x3c/span\x3e';a.id="parsely-root";a.style.display="none";c.appendChild(a)})(document);
+(function(a,b,c){var e=c.location.protocol,f=b+"-"+a,d=c.getElementById(f),g=c.getElementById(b+"-root");b="https:"===e?"d1z2jf7jlzjs58.cloudfront.net":"static."+b+".com";d||(d=c.createElement(a),d.id=f,d.async=!0,d.src=e+"//"+b+"/p.js",g.appendChild(d))})("script","parsely",document);

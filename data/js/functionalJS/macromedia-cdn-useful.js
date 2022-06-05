@@ -1,0 +1,1 @@
+var adobeGlobalNavVersion = "v1.1.4", adobeCDNHost = "http://wwwimages.adobe.com/www.adobe.com";

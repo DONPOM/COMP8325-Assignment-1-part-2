@@ -1,0 +1,1 @@
+var ad = buildRhTextAd([0,0,160,582,"http://www.bradfordsolar.com.au/Product/Bradford-solar-systems.aspx"]);registerAd(ad,'taw0');adSlot.addAd(ad);

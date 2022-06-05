@@ -1,0 +1,1 @@
+_DM.define("Sd_SmartAlert_PushSignup",function(){var a={onSmartAlertDisplayed:function(){},initSmartAlert:function(){DM_SmartAlertStrategist.add(DM_SmartAlertStrategist.serverside_smartalert.type,a.onSmartAlertDisplayed,DM_SmartAlertStrategist.serverside_smartalert.capping)},__initialize:function(){a.initSmartAlert()}};return a});

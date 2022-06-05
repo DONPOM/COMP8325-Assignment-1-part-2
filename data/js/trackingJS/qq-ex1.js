@@ -1,0 +1,22 @@
+jsonp_callback_80759({
+    "pid": "mm_26051537_2367569_21232009",
+    "acookie": "",
+    "width": "320",
+    "height": "285",
+    "stdwidth": "",
+    "stdheight": "",
+    "distype": "1",
+    "webwidth": "",
+    "adboardtype": "98",
+    "fvs": "",
+    "title": "",
+    "clickurl": "",
+    "data": "<iframe scrolling=\"no\" height=285 frameborder=\"0\" width=320 style=\"border: 0pt none;\" marginheight=\"0\" allowtransparency=\"true\" marginwidth=\"0\" border=\"0\" src=\"http:\/\/strip.taobaocdn.com\/tfscom\/TB1Ij2NFVXXXXa9XpXXO04pFXXX.html?name=itemdsp&url=http%3A%2F%2Fwww.qq.com%2F&iswt=1&pid=tt_26051537_2367569_21232009&refpid=tt_26051537_2367569_21232009&refpos=,n,i&adx_type=0&pvid=0a67f524000054741e3d3cd500443eff_0&ps_id=e43e20c2b56d304b75cfb3bd38f6ee27&fl=6&tanxdspv=http%3A%2F%2Frdstat.tanx.com%2Ftrd%3F%26f%3D%26k%3Da09e279ad7f7a12a%26p%3Dmm_26051537_2367569_21232009%26pvid%3D0a6720240000d8d954741e3d00460919%26s%3D320x285%26d%3D17534123%26t%3D1416896061\"><\/iframe>",
+    "icon": "",
+    "feedback": "",
+    "unregist": "",
+    "tproduct": "2",
+    "isx": "1",
+    "mid": "17534123",
+    "crid": ""
+});

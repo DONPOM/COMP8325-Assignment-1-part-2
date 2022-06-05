@@ -1,0 +1,1 @@
+Krux.ns._default.kxjsonp_userData({"status": "200", "body": {"prvx_segments": ["o1si984cw", "oxsmw8nl9", "o23p36wlj", "n5w0979by"], "segments": ["o1si984cw", "o23p36wlj", "n5w0979by"], "geo": {"dma": null, "domain": "aarnet.net.au", "zip": "5000", "country": "au", "region": "sa", "longitude": "138.6", "latitude": "-34.9258"}, "kuid_long": "oyrplhkxr", "kuid": "Jap_Qsit"}})

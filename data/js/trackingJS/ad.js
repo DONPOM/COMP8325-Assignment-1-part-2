@@ -1,0 +1,5 @@
+var asdate=new Date();var q='&tz='+asdate.getTimezoneOffset()/60 +'&ck='+(navigator.cookieEnabled?'Y':'N') +'&jv='+(navigator.javaEnabled()?'Y':'N') +'&scr='+screen.width+'x'+screen.height+'x'+screen.colorDepth +'&z='+Math.random() +'&x=0.0067059993743896';var c='';
+c+='<'+'a href="http://g.adspeed.net/ad.php?do=clk&aid=216734&zid=71736&t=1418003367&custom=db244&auth=dfe5b4c1f4045f62a86c90693e9e4738" target="_blank" ><'+'img style="border:0px;" src="https://s3.amazonaws.co';
+c+='m/dom_dominator/vd-244x244.png" width="244" height="244" /><'+'/a>';
+document.write(c);
+document.write('<div style="position:absolute;left:0px;top:0px;visibility:hidden;"><img src="http://g.adspeed.net/ad.php?do=imp&aid=216734&zid=71736&t=1418003367&auth=dfe5b4c1f4045f62a86c90693e9e4738&wd=-1&ht=-1&ref=&uri=http%3A%2F%2Fwww.donbest.com%2F" alt="i" width="1" height="1" /></div>');

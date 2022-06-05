@@ -1,0 +1,1 @@
+Krux.ns._default.kxjsonp_userData({"status": "200", "body": {"technographics": {"device": "Computer", "manufacturer": "Apple Inc.", "os": "Mac OS X", "browser": "Safari"}, "segments": [], "code": "no_user_id", "geo": {}}})

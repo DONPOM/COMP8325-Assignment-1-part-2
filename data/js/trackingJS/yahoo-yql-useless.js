@@ -1,0 +1,1 @@
+/**/YUI.Env.JSONP.yui_3_12_0_1_1416878524936_2707({"query":{"count":1,"created":"2014-11-25T02:01:19Z","lang":"en-US","results":{"result":{"messageInfo":{"subject":"[Flickr] Welcome!","receivedDate":"1416269443","mid":"2_0_0_1_22_AFvmjkQAABjIVGqOgw82iMCZKdY","flags":{"isRead":"1"},"from":{"name":"Flickr Mail"}}}}}});

@@ -1,0 +1,1 @@
+var BETA_HOST = 'beta.reddit.com'; if (location.host === BETA_HOST) { r.config.https_endpoint = 'https://' + BETA_HOST; }

@@ -1,0 +1,1 @@
+document.write("<script type='text/javascript' src='http://g.adspeed.net/ad.php?do=js&zid=71736&wd=-1&ht=-1&target=_blank&custom=db244'></script>");

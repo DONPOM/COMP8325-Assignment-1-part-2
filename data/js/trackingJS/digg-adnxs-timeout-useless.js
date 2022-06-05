@@ -1,0 +1,1 @@
+setTimeout(function () { _tl.tl_sd1.sd('adnxs timeout','0','0') },100);

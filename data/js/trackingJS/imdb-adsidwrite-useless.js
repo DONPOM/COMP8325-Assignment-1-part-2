@@ -1,0 +1,1 @@
+document.write("<script defer>parent.ad_utils.ad_table.top_ad.fired=true;<\/script>");

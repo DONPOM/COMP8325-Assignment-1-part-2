@@ -1,0 +1,1 @@
+var pageURL;google_tag_manager["GTM-NM9D6J"].macro('gtm1418017229904')?pageURL=google_tag_manager["GTM-NM9D6J"].macro('gtm1418017229905'):_macroHandler.getPageviewDefinition()&&(pageURL=_macroHandler.getPageviewDefinition());_macroHandler.getAccountIdGaClassic()&&_gaq.push(["_trackPageview",pageURL]);_macroHandler.getAccountIdGaUniversal()&&ga("send","pageview",pageURL);

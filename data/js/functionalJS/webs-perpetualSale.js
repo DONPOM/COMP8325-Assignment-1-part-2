@@ -1,0 +1,1 @@
+define({"webs.perpetualSale.actionText":"Learn More","webs.perpetualSale.body":"Free Custom Domain Name, No Ads,\n24/7 Chat Support &amp; Much More","webs.perpetualSale.shortTitle":"Up to 50% Off Premium","webs.perpetualSale.title":"Today Only! Up to 50% Off Webs Premium Packages"});
